@@ -5,6 +5,6 @@ I built this react portfolio to showcase my skills by showing off my projects an
 ## Usage 
 
 ## Installation 
-
+install react, react-dom, bootstrap, gh-pages. Run "npx create-react-app. finally you npm install. 
 ## License 
 MIT
